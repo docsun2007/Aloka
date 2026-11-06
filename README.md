@@ -10,9 +10,9 @@
 >
 > **Aloka 1.0 正在准备公开发布，目前尚未开放下载。**
 
-[中文](#中文) · [English](#english) · [Screenshots / 界面](#screenshots) · [The Story Behind Aloka](#the-story-behind-aloka) · [GitHub Issues](https://github.com/docsun2007/Aloka/issues)
+[Introduction](#introduction--简介) · [Features](#features--主要功能) · [Screenshots / 界面](#screenshots) · [The Story Behind Aloka](#the-story-behind-aloka) · [GitHub Issues](https://github.com/docsun2007/Aloka/issues)
 
-## 中文
+## Introduction / 简介
 
 Aloka 是一款面向碳材料拉曼光谱的 Windows 桌面应用。它把 TXT 导入、样品与重复测量组织、数据检查、预处理、D/G 双峰拟合和结果导出放在同一个工作台中。界面支持简体中文和英文。
 
@@ -21,7 +21,7 @@ Aloka 是一款面向碳材料拉曼光谱的 Windows 桌面应用。它把 TXT 
 - **工程与结果。** 将数据和已确认结果保存到可重开的 `.raman` 工程。峰高比 I(D)/I(G) 与峰面积比分开报告。
 - **导出。** 生成 Excel 工作簿（`.xlsx`）。使用单独安装并配置的 Origin，还可将选定的样品与已确认结果导出为 Origin 工程（`.opju`）。
 
-## English
+## Features / 主要功能
 
 Aloka is a Windows desktop application for Raman analysis of carbon materials. It brings TXT import, sample and replicate organization, input checks, preprocessing, D/G peak fitting, and export into one workbench. The interface is available in Simplified Chinese and English.
 
@@ -60,6 +60,28 @@ Windows 10, Windows on ARM, macOS, Linux, and other Origin versions are outside 
 
 [环境与使用说明 / Setup and usage notes](INSTALLATION.md) · [第三方组件说明 / Third-party notices](THIRD_PARTY_NOTICES.md)
 
+## Download / 下载
+
+Aloka 1.0 is being prepared for public release. Downloads are not available yet.  
+Aloka 1.0 正在准备公开发布，目前尚未开放下载。
+
+## Tutorial / 教程
+
+中文快速入门视频正在完成发布审查。可先阅读[快速使用指南](USER_GUIDE.md)。  
+The Mandarin quick-start video is under release review. See the [quick-start guide](USER_GUIDE.md).
+
+## Validation / 科学与功能验证
+
+[验证方法、结论与范围 / Methods, results and scope](docs/VALIDATION.md)
+
+## Development History / 研发历史
+
+[研发历史 / Development history](docs/DEVELOPMENT_HISTORY.md) · [变更记录 / Changelog](CHANGELOG.md)
+
+## Known Issues / 已知问题
+
+[外部兼容与使用限制 / External compatibility and limitations](KNOWN_ISSUES.md)
+
 ## The Story Behind Aloka
 
 Aloka 从一个具体的分析问题出发：同一样品往往有多次测量，而从谱图整理、试拟合到图表导出，每一步都需要知道用的是哪份数据、哪组参数和哪一版结果。Aloka 将这些步骤放进一个可重开的工程，让使用者能回看参数、残差和诊断，再决定如何解释拟合结果。
@@ -72,7 +94,7 @@ Sun’s Workshop 是 Aloka 的开发与展示品牌。这个项目聚焦一条�
 
 Sun’s Workshop is the studio name behind Aloka. The project focuses on a practical research workflow, from organizing measurements to saving results that can be revisited and edited.
 
-## Release status & feedback / 发布状态与反馈
+## Feedback / 反馈
 
 这里是产品展示页。Aloka 应用源码保留私有。安装包正在进行发行审核，教程暂未开放。  
 This repository showcases Aloka. The application source remains private. The installer is under release review, and the tutorial is not yet available.

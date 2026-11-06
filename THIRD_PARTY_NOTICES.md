@@ -10,3 +10,10 @@ The Windows release candidate uses Qt, PySide6, Shiboken6, CPython, NumPy, SciPy
 
 本页为展示阶段的组件说明。完整发行声明与适用的对应源码材料仍在审核，安装包尚未开放。  
 This page summarizes third-party components for the showcase. The complete distribution notices and applicable corresponding-source materials remain under review. Installer downloads are not available yet.
+## 候选运行时 / Candidate runtime
+
+内部候选使用 CPython 3.14.10、OpenSSL 3.5.9 及 Qt 6.12.0。Qt 在 Windows 上使用 Schannel。发行候选载荷排除了 Qt Virtual Keyboard、Qt PDF/PDFium 和可选 Qt OpenSSL 后端。适用的许可证通知、对应源码和库替换信息仍在整理。
+
+The internal candidate uses CPython 3.14.10, OpenSSL 3.5.9 and Qt 6.12.0. Qt uses Windows Schannel. The candidate payload excludes Qt Virtual Keyboard, Qt PDF/PDFium and the optional Qt OpenSSL backend. Applicable license notices, corresponding source and library replacement information remain under review.
+
+[CPython license](https://docs.python.org/3/license.html) · [OpenSSL license](https://openssl-library.org/source/license/)
