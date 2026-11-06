@@ -6,11 +6,11 @@
 <p align="center"><strong>Sun’s Workshop</strong> · Windows x64</p>
 <p align="center">碳材料拉曼光谱的 D/G 分峰工作台<br>A D/G peak analysis workbench for carbon-material Raman spectra</p>
 
-> **Aloka 1.0 is being prepared for public release. Downloads are not available yet.**
+> **Aloka 1.0.0 RC1 is a Windows x64 release candidate.**
 >
-> **Aloka 1.0 正在准备公开发布，目前尚未开放下载。**
+> **Aloka 1.0.0 RC1 是 Windows x64 发布候选版。**
 
-[Introduction](#introduction--简介) · [Features](#features--主要功能) · [Screenshots / 界面](#screenshots) · [The Story Behind Aloka](#the-story-behind-aloka) · [GitHub Issues](https://github.com/docsun2007/Aloka/issues)
+[Introduction](#introduction--简介) · [Features](#features--主要功能) · [Screenshots / 界面](#screenshots) · [Download / 下载](#download--下载) · [Tutorial / 教程](#tutorial--教程) · [The Story Behind Aloka](#the-story-behind-aloka) · [GitHub Issues](https://github.com/docsun2007/Aloka/issues)
 
 ## Introduction / 简介
 
@@ -62,13 +62,20 @@ Windows 10, Windows on ARM, macOS, Linux, and other Origin versions are outside 
 
 ## Download / 下载
 
-Aloka 1.0 is being prepared for public release. Downloads are not available yet.  
-Aloka 1.0 正在准备公开发布，目前尚未开放下载。
+**Aloka 1.0.0 RC1 · Windows x64**
+
+[下载安装包 / Download Windows Setup](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Raman_Analyzer_1.0.0_RC1_OPENSSL_01_Review_Setup.exe) · [发行说明 / Release notes](https://github.com/docsun2007/Aloka/releases/tag/v1.0.0-rc1) · [SHA-256 校验 / Checksums](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/SHA256SUMS_ALL_ATTACHMENTS.txt)
+
+安装包使用已验收的 OPENSSL-01 构建 `0b87c667dfe4-openssl01`。本轮安装流程在 Windows 11 x64 上验证。  
+The installer is the tested OPENSSL-01 build `0b87c667dfe4-openssl01`. The installed workflow was verified on Windows 11 x64.
 
 ## Tutorial / 教程
 
-中文快速入门视频正在完成发布审查。可先阅读[快速使用指南](USER_GUIDE.md)。  
-The Mandarin quick-start video is under release review. See the [quick-start guide](USER_GUIDE.md).
+[下载中文快速入门 V1.1（MP4）/ Download the Mandarin quick-start tutorial V1.1](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Quick_Start_Tutorial_Public_Candidate.mp4)
+
+视频时长 4 分 40 秒，演示从数据导入、D/G 分峰到结果导出。另见[快速使用指南](USER_GUIDE.md)。  
+The 4 min 40 s tutorial covers data import, D/G peak analysis and export. See also the [quick-start guide](USER_GUIDE.md).
+
 
 ## Validation / 科学与功能验证
 
@@ -96,8 +103,8 @@ Sun’s Workshop is the studio name behind Aloka. The project focuses on a pract
 
 ## Feedback / 反馈
 
-这里是产品展示页。Aloka 应用源码保留私有。安装包正在进行发行审核，教程暂未开放。  
-This repository showcases Aloka. The application source remains private. The installer is under release review, and the tutorial is not yet available.
+这里是 Aloka 产品展示页。应用源码保留私有。  
+This repository showcases Aloka. The application source remains private.
 
 欢迎在 [GitHub Issues](https://github.com/docsun2007/Aloka/issues) 提出功能建议或可复现问题。请提供软件版本、Windows 版本、复现步骤和错误码，并先移除本机路径、个人信息和未公开的科研数据。  
 Use [GitHub Issues](https://github.com/docsun2007/Aloka/issues) for suggestions or reproducible problems. Include the build, Windows version, steps, and error code. Remove local paths, personal details, and unpublished research data before posting.
