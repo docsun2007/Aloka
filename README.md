@@ -71,6 +71,11 @@ The installer is OPENSSL-01 build `0b87c667dfe4-openssl01`. A representative ins
 
 ## Tutorial / 教程
 
+**PDF 用户手册 / User Manual** · [在线阅读 / Read PDF](https://github.com/docsun2007/Aloka/blob/main/docs/Aloka_User_Manual_zh-CN.pdf) · [下载 PDF / Download PDF](https://github.com/docsun2007/Aloka/raw/refs/heads/main/docs/Aloka_User_Manual_zh-CN.pdf)
+
+手册使用较早的 RC1 构建演示。安装包名称以当前 Release 为准。  
+The manual illustrates an earlier RC1 build. Use the installer listed in the current Release.
+
 [下载中文快速入门 V1.1（MP4）/ Download the Mandarin quick-start tutorial V1.1](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Quick_Start_Tutorial_Public_Candidate.mp4)
 
 视频时长 4 分 40 秒，演示数据导入、D/G 分峰和结果导出。另见[快速使用指南](USER_GUIDE.md)。  
