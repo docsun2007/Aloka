@@ -62,13 +62,19 @@ Windows 10, Windows on ARM, macOS, Linux, and other Origin versions are outside 
 
 ## Download / 下载
 
-The Aloka 1.0.0 RC1 installer is staged in the private release draft. Public downloads are not available yet.  
-Aloka 1.0.0 RC1 安装包已放入私有发布草稿，目前尚未开放公众下载。
+**Aloka 1.0.0 RC1 · Windows x64**
+
+[下载安装包 / Download Windows Setup](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Raman_Analyzer_1.0.0_RC1_OPENSSL_01_Review_Setup.exe) · [发行说明 / Release notes](https://github.com/docsun2007/Aloka/releases/tag/v1.0.0-rc1) · [SHA-256 校验 / Checksums](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/SHA256SUMS_RC1.txt) · [第三方源码及许可 / Third-party source and notices](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_1.0.0_RC1_OPENSSL_01_Qt_Source_and_Third_Party_Notices.zip)
+
+安装包为 OPENSSL-01 构建 `0b87c667dfe4-openssl01`，已在 Windows 11 x64 上验证代表性安装版工作流。  
+The installer is OPENSSL-01 build `0b87c667dfe4-openssl01`. A representative installed workflow was verified on Windows 11 x64.
 
 ## Tutorial / 教程
 
-中文快速入门视频正在完成发布审查。可先阅读[快速使用指南](USER_GUIDE.md)。  
-The Mandarin quick-start video is under release review. See the [quick-start guide](USER_GUIDE.md).
+[下载中文快速入门 V1.1（MP4）/ Download the Mandarin quick-start tutorial V1.1](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Quick_Start_Tutorial_Public_Candidate.mp4)
+
+视频时长 4 分 40 秒，演示数据导入、D/G 分峰和结果导出。另见[快速使用指南](USER_GUIDE.md)。  
+The 4 min 40 s tutorial covers data import, D/G peak analysis and export. See also the [quick-start guide](USER_GUIDE.md).
 
 ## Validation / 科学与功能验证
 

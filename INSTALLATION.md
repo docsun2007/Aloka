@@ -1,6 +1,8 @@
 # 安装环境与使用说明 / Setup and usage notes
 
-**Aloka 1.0 is being prepared for public release. Downloads are not available yet.**
+**Aloka 1.0.0 RC1 · Windows x64**
+
+[Windows 安装包 / Windows Setup](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_Raman_Analyzer_1.0.0_RC1_OPENSSL_01_Review_Setup.exe) · [SHA-256 校验 / Checksums](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/SHA256SUMS_RC1.txt) · [发行说明 / Release notes](https://github.com/docsun2007/Aloka/releases/tag/v1.0.0-rc1)
 
 此页说明候选版本已经验证的环境和使用流程。  
 This page describes the environment and workflow verified with the release candidate.

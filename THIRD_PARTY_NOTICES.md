@@ -8,12 +8,12 @@ The Windows release candidate uses Qt, PySide6, Shiboken6, CPython, NumPy, SciPy
 - 科学计算、绘图与 Excel 组件的条款由其各自项目提供。 / Scientific, plotting, and Excel libraries are governed by their respective project licenses. [NumPy](https://numpy.org/doc/stable/license.html) · [SciPy](https://github.com/scipy/scipy/blob/main/LICENSE.txt) · [Matplotlib](https://matplotlib.org/stable/project/license.html)
 - Origin、OriginPro 和 Excel 是各自权利人的产品。OPJU 导出使用用户另行安装的 Origin。 / Origin, OriginPro, and Excel are products of their respective owners. OPJU export uses the user’s separate Origin installation.
 
-本页为展示阶段的组件说明。完整发行声明与适用的对应源码材料仍在审核，安装包尚未开放。  
-This page summarizes third-party components for the showcase. The complete distribution notices and applicable corresponding-source materials remain under review. Installer downloads are not available yet.
+与 OPENSSL-01 安装包对应的[第三方许可、Qt 源码及库替换说明](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_1.0.0_RC1_OPENSSL_01_Qt_Source_and_Third_Party_Notices.zip)随 RC1 提供。公开分发权待确认事项见[发行说明](https://github.com/docsun2007/Aloka/releases/tag/v1.0.0-rc1)。  
+The [third-party notices, Qt source and library replacement instructions](https://github.com/docsun2007/Aloka/releases/download/v1.0.0-rc1/Aloka_1.0.0_RC1_OPENSSL_01_Qt_Source_and_Third_Party_Notices.zip) accompany the OPENSSL-01 installer. See the [release notes](https://github.com/docsun2007/Aloka/releases/tag/v1.0.0-rc1) for outstanding public distribution clearances.
 ## 候选运行时 / Candidate runtime
 
-内部候选使用 CPython 3.14.10、OpenSSL 3.5.9 及 Qt 6.12.0。Qt 在 Windows 上使用 Schannel。发行候选载荷排除了 Qt Virtual Keyboard、Qt PDF/PDFium 和可选 Qt OpenSSL 后端。适用的许可证通知、对应源码和库替换信息仍在整理。
+RC1 使用 CPython 3.14.10、OpenSSL 3.5.9 及 Qt 6.12.0。Qt 在 Windows 上使用 Schannel。发行候选载荷排除了 Qt Virtual Keyboard、Qt PDF/PDFium 和可选 Qt OpenSSL 后端。
 
-The internal candidate uses CPython 3.14.10, OpenSSL 3.5.9 and Qt 6.12.0. Qt uses Windows Schannel. The candidate payload excludes Qt Virtual Keyboard, Qt PDF/PDFium and the optional Qt OpenSSL backend. Applicable license notices, corresponding source and library replacement information remain under review.
+RC1 uses CPython 3.14.10, OpenSSL 3.5.9 and Qt 6.12.0. Qt uses Windows Schannel. The candidate payload excludes Qt Virtual Keyboard, Qt PDF/PDFium and the optional Qt OpenSSL backend.
 
 [CPython license](https://docs.python.org/3/license.html) · [OpenSSL license](https://openssl-library.org/source/license/)
