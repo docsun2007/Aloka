@@ -6,9 +6,9 @@
 <p align="center"><strong>Sun’s Workshop</strong> · Windows x64</p>
 <p align="center">碳材料拉曼光谱的 D/G 分峰工作台<br>A D/G peak analysis workbench for carbon-material Raman spectra</p>
 
-> **Aloka 1.0.0 RC1 is a Windows x64 release candidate. Public downloads are not available yet.**
+> **Aloka 1.0.0 RC1 is a Windows x64 release candidate.**
 >
-> **Aloka 1.0.0 RC1 是 Windows x64 发布候选版，目前尚未开放公众下载。**
+> **Aloka 1.0.0 RC1 是 Windows x64 发布候选版。**
 
 [Introduction](#introduction--简介) · [Features](#features--主要功能) · [Screenshots / 界面](#screenshots) · [The Story Behind Aloka](#the-story-behind-aloka) · [GitHub Issues](https://github.com/docsun2007/Aloka/issues)
 
@@ -107,8 +107,8 @@ Sun’s Workshop is the studio name behind Aloka. The project focuses on a pract
 
 ## Feedback / 反馈
 
-这里是产品展示页。Aloka 应用源码保留私有。安装包正在进行发行审核，教程暂未开放。  
-This repository showcases Aloka. The application source remains private. The installer is under release review, and the tutorial is not yet available.
+这里是产品展示页。Aloka 应用源码保留私有。  
+This repository showcases Aloka. The application source remains private.
 
 欢迎在 [GitHub Issues](https://github.com/docsun2007/Aloka/issues) 提出功能建议或可复现问题。请提供软件版本、Windows 版本、复现步骤和错误码，并先移除本机路径、个人信息和未公开的科研数据。  
 Use [GitHub Issues](https://github.com/docsun2007/Aloka/issues) for suggestions or reproducible problems. Include the build, Windows version, steps, and error code. Remove local paths, personal details, and unpublished research data before posting.
